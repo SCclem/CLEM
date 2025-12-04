@@ -1,0 +1,151 @@
+✅ Un seul code HTML + CSS + JS
+✅ Design moderne, boutons ronds, animations
+✅ Couleurs de la France
+✅ Tout le programme de 3ᵉ, toutes les matières, toutes les notions
+✅ Pour chaque notion : intro + cours + bilan + exercices corrigés (comme un cahier d’élève)
+✅ Mini IA locale, favoris, mode sombre, barre de recherche, vidéos, liens externes, etc.
+✅ TOUS les boutons doivent fonctionner
+✅ Site gigantesque possible (tu le veux "méga long")
+✅ En un seul code (un fichier unique)
+
+➡️ COPIE-COLLE TOUT LE PROMPT CI-DESSOUS DANS TON IA QUI DOIT GÉNÉRER LE CODE
+
+🎯 PROMPT FINAL À COPIER-COLLER
+Tu es une IA experte en développement web. Ta mission est de créer **UN SEUL CODE HTML** (contenant aussi TOUT le CSS et TOUT le JavaScript) qui constitue un site éducatif complet appelé :
+
+🔥 **CLEM by Clément Caillot**
+
+Tu dois respecter toutes les exigences suivantes (sans exception) :
+
+---------------------------------------------
+🎨 DESIGN & IDENTITÉ VISUELLE
+---------------------------------------------
+- Design **moderne**, fluide, professionnel.
+- Thème visuel **aux couleurs de la France** (bleu, blanc, rouge).
+- Boutons **ronds** (bord-radius = 999px).
+- Beaucoup d’**animations** (hover, transitions, micro-interactions).
+- Responsive mobile / tablette / desktop.
+- Mode sombre activable via un bouton (qui doit réellement fonctionner).
+
+---------------------------------------------
+📚 CONTENU PÉDAGOGIQUE (TRÈS IMPORTANT)
+---------------------------------------------
+Le site doit contenir **tout le programme scolaire de 3ème**, dans **toutes les matières** suivantes :
+
+1. Français  
+2. Mathématiques  
+3. Histoire  
+4. Géographie  
+5. EMC  
+6. SVT  
+7. Physique-Chimie  
+8. Technologie  
+9. Conseils pour préparer et réussir l'oral du brevet  
+
+Tu dois inclure pour **toutes les notions de toutes les matières** :
+
+- Une **Introduction** (présentation claire)
+- Un **Cours complet détaillé**
+- Un **Bilan / Synthèse** de fin de chapitre
+- Des **Exercices** comme dans un vrai cahier d’élève  
+- Les **Corrigés** des exercices
+- Des **exemples concrets**
+- Au moins **2 liens externes** vers des ressources utiles
+- Au moins **1 vidéo** (YouTube ou placeholder)
+
+Cela doit ressembler à un **vrai cahier complet d’un élève de 3ᵉ**, couvrant TOUTE l’année scolaire, dans TOUTES les matières.
+
+Tu peux créer 6 à 12 chapitres par matière si nécessaire.
+
+---------------------------------------------
+🧠 MINI-IA INTÉGRÉE (EN LOCAL)
+---------------------------------------------
+Le site doit contenir une **mini IA locale** (dans le même fichier, en JavaScript) :
+
+- Fonctionne **hors-ligne**  
+- Ne contacte aucune API extérieure  
+- Analyse le contenu du site
+- Répond aux questions de l’élève
+- Fournit des liens internes + externes
+- Ouvre/ferme via un **bouton rond animé** (qui doit fonctionner)
+
+---------------------------------------------
+🔎 BARRE DE RECHERCHE INTELLIGENTE
+---------------------------------------------
+Tu dois intégrer une **barre de recherche** qui :
+
+- Recherche en direct (search-as-you-type)
+- Cherche dans toutes les notions
+- Cherche dans les intros, cours, bilans et exercices
+- Affiche les résultats instantanément
+- Surligne les mots recherchés
+- Fonctionne parfaitement
+
+---------------------------------------------
+📽️ MODALS & VIDÉOS
+---------------------------------------------
+Pour chaque chapitre, intégrer :
+
+- Un bouton “Voir la vidéo”  
+- Qui ouvre un **modal animé**  
+- Avec vidéo YouTube intégrée (lazy loading)  
+- Possibilité de fermer le modal
+
+Tous les boutons doivent fonctionner **vraiment**.
+
+---------------------------------------------
+⭐ FAVORIS (localStorage)
+---------------------------------------------
+Chaque chapitre doit avoir un bouton :
+
+- “Ajouter aux favoris”
+- Stockage via localStorage
+- Page “Mes Favoris”
+- Bouton “Supprimer”
+
+---------------------------------------------
+🌙 MODE SOMBRE
+---------------------------------------------
+Un bouton **Doit** activer/désactiver un mode sombre réel.
+
+---------------------------------------------
+📱 MENU MOBILE
+---------------------------------------------
+Un menu hamburger :
+
+- Rond
+- Bleu/blanc/rouge
+- Animé
+- Fonctionnel
+
+---------------------------------------------
+⚙️ EXIGENCE ABSOLUE : TOUT DOIT FONCTIONNER
+---------------------------------------------
+Tous les boutons du site doivent :
+
+- exécuter une action
+- être fonctionnels
+- être animés
+- ne pas être décoratifs
+
+---------------------------------------------
+📄 STRUCTURE TECHNIQUE
+---------------------------------------------
+Le site doit être livré sous forme **d’un seul fichier HTML** avec :
+
+- `<style>` contenant tout le CSS (design moderne + animations)
+- `<script>` contenant tout le JavaScript (recherche, IA, favoris, modals, etc.)
+- Aucun fichier externe obligatoire
+- Aucun framework (JS vanilla seulement)
+- Code propre, commenté, clair
+
+---------------------------------------------
+🎯 LIVRABLE FINAL
+---------------------------------------------
+→ Génère directement le code **HTML + CSS + JS COMPLET**  
+→ Dans **UN SEUL** fichier  
+→ Très long, détaillé, complet, professionnel  
+→ Avec l’ensemble des fonctionnalités ci-dessus  
+→ Avec tout le contenu des chapitres, cours, bilans, exercices, etc.
+
+Commence maintenant et génère **le fichier HTML entier**.
